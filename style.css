@@ -1,0 +1,10 @@
+body{
+    background: #333333;
+}
+.rounded-circle{
+    margin: 30px;
+}
+.form-group{
+    padding: 4px;
+    width: 40%;
+}
